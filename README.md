@@ -1,3 +1,2 @@
 - 👋 Hi, I’m @DevGoran
 - 👀 I’m interested in many things.
-- 🌱 I’m currently learning how to code Android Apps and hopefully work one day in IT.
